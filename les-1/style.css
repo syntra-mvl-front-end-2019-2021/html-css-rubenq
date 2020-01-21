@@ -1,0 +1,15 @@
+p {
+    margin-left: 50px;
+    background-color: gold;
+}
+body p {
+    background-color: indianred;
+}
+
+.klasse1 {
+    color: khaki;
+}
+
+#id1 {
+    background-color: lavender;
+}
