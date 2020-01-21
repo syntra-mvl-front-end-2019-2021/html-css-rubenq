@@ -13,3 +13,16 @@ body p {
 #id1 {
     background-color: lavender;
 }
+p.klasse1 {
+    box-sizing: border-box;
+    padding: 20px;
+    border: 2px solid black;
+    margin: 50px;
+    height: 250px;
+    width: 250px;
+}
+
+.klasse3 {
+    display: block;
+    width: 500px;
+}
