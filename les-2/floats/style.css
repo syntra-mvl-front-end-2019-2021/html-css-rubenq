@@ -1,0 +1,49 @@
+header {
+    background-color: red;
+    padding: 5px;
+    margin-bottom: 20px;
+}
+
+.item {
+    height: 25px;
+    width: 75px;
+    margin-right: 5px;
+    float: right;
+}
+
+.logo {
+    height: 25px;
+    width: 75px;
+    background-color: blue;
+}
+
+.first {
+    background-color: yellow;
+    height: 25px;
+    width: 75px;
+    margin-left: 5px;
+    float: right;
+}
+
+.second {
+    background-color: green;
+    height: 25px;
+    width: 75px;
+    margin-left: 5px;
+    float: right;
+}
+
+.third {
+    background-color: purple;
+    height: 25px;
+    width: 75px;
+    margin-left: 5px;
+    float: right;
+}
+
+.overflow-test {
+    width: 200px;
+    height: 200PX;
+    background-color: greenyellow;
+    overflow: auto;
+}
