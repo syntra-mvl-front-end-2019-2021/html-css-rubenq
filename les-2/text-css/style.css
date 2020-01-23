@@ -1,0 +1,33 @@
+.class-1 {
+    font-weight: 700;
+    font-family: sans-serif;
+    font-size: 30px;
+}
+
+.class-2 {
+    font-weight: 400;
+    font-size: 1rem;
+    font-family: serif;
+}
+
+.class-3 {
+    background-color: green;
+    color: red;
+    font: bold, italic;
+    padding: 5px;
+}
+
+.class-4 {
+    background-color: grey;
+    border-bottom: green 2px solid;
+    width: 400px;
+}
+
+.class-5 {
+    text-transform: uppercase;
+    color: red;
+    text-align: center;
+}
+p.class-5::first-letter {
+    color: green;
+}
