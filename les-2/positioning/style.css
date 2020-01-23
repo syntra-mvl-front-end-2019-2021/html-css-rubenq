@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+}
+
+.pos-relative {
+    width: 400px;
+    height: 400px;
+    background-color: lightblue;
+    position: relative;
+    top: 40px;
+    left: 50%;
+}
+
+.red {
+    height: 50px;
+    background-color: red;
+}
+
+.green {
+    height: 50px;
+    background-color: greenyellow;
+    position: relative;
+}
+
+.pos-absolute {
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    background-color: orange;
+    top: 10px;
+}
+
+.fixed {
+    position: fixed;
+    height: 50px;
+    width: 100%;
+    background-color: black;
+    top: 0;
+}
+
+.sticky {
+    position: sticky;
+    height: 50px;
+    width: 100%;
+    background-color:pink;
+    top: 0;
+}
