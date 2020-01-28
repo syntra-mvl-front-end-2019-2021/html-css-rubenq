@@ -1,0 +1,51 @@
+.container {
+    margin: auto;
+    float: none;
+    height: 700px;
+    width: 700px;
+    text-align: center;
+}
+
+.right {
+    background-color: red;
+    float: left;
+    height: 500px;
+    width: 200px;
+    margin-top: 200px;
+    color: white;
+    font-size: 40px;
+    line-height: 500px;
+}
+
+.top {
+    background-color: green;
+    height: 200px;
+    width: 500px;
+    float: none;
+    color: white;
+    font-size: 40px;
+    line-height: 200px;
+}
+
+.left {
+    background-color: gold;
+    height: 500px;
+    width: 200px;
+    float: right;
+    margin-top: -200px;
+    color: white;
+    font-size: 40px;
+    line-height: 500px;
+}
+
+.bottom {
+    background-color: blue;
+    height: 200px;
+    width: 500px;
+    float: none;
+    margin-top: 300px;
+    margin-left: 200px;
+    color: white;
+    font-size: 40px;
+    line-height: 200px;
+}
